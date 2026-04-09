@@ -8,6 +8,12 @@ This repository currently publishes the `genstory-story-generator` skill for con
 
 ## Install
 
+### Standard install via skills.sh
+
+```bash
+npx skills add MuRyanice/genstory-agent
+```
+
 ### Register marketplace
 
 ```bash

@@ -6,6 +6,12 @@ Genstory 对外公开的 Skill 仓库。
 
 ## 安装方式
 
+### 通过 skills.sh 标准安装
+
+```bash
+npx skills add MuRyanice/genstory-agent
+```
+
 ### 注册 marketplace
 
 ```bash
@@ -38,3 +44,11 @@ curl -fsSL https://www.genstory.app/api/skills/genstory-story-generator/skill-md
 用户可在 Genstory 用户中心申请 API Key：
 
 - `https://www.genstory.app/my-api-keys`
+
+
+### Standard install via skills.sh
+
+```bash
+npx skills add MuRyanice/genstory-agent
+```
+
