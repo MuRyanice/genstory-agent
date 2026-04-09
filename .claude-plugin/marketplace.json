@@ -1,0 +1,22 @@
+{
+  "name": "genstory-agent",
+  "owner": {
+    "name": "Ryan Mu",
+    "email": "mylapland99@gmail.com"
+  },
+  "metadata": {
+    "description": "Public Genstory skills for story generation workflows",
+    "version": "1.0.0"
+  },
+  "plugins": [
+    {
+      "name": "genstory-agent",
+      "description": "Genstory marketplace bundle containing the Genstory story generator skill",
+      "source": "./",
+      "strict": true,
+      "skills": [
+        "./skills/genstory-story-generator"
+      ]
+    }
+  ]
+}
