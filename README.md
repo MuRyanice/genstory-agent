@@ -1,5 +1,7 @@
 # genstory-agent
 
+English | [中文](./README.zh.md)
+
 Genstory public skill repository.
 
 This repository currently publishes the `genstory-story-generator` skill for connecting external workflows to Genstory story generation.
